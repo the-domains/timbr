@@ -1,0 +1,14 @@
+layout_spectrum: 0.2156019767280668
+typography_spectrum: 0.3516746985260397
+color:
+  brandStrength: 0.6569980140775442
+  lightness: 0.764938254840672
+  saturation: 0.7441646817605942
+  rhythmicContrast: 0.3410230898298323
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+name: timbr
